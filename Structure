@@ -1,0 +1,8 @@
+qa-test-management/
+├── README.md
+├── test_plan.md
+├── test_cases/
+│   └── ecommerce_test_cases.md
+├── bug_reports/
+│   └── bugs.md
+└── traceability_matrix.md
